@@ -6,7 +6,7 @@ from pymongo import MongoClient
 
 def connectdb():
     # Connect to MongoDB
-    password = "XXX"
+    password = "Justd2ss"
     if password == "XXX":
         print('Please specify the password!')
         raise KeyError
